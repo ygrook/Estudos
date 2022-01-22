@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\ref\AtividadeClasse2.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\bin\Debug\net5.0\AtividadeClasse2.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\ref\AtividadeClasse2.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse2\AtividadeClasse2\obj\Debug\net5.0\AtividadeClasse2.genruntimeconfig.cache

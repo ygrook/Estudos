@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3F3JpquQhsmxUWzXZHJ/wV06/PgHyp/T6AG2SZ0XUqh1dwHOuH/kFOzJokiSu+qVgdt2nQZyjV7jJ0w8K8SgWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Arquivos\\ws-vs2022\\quartro\\quartro\\quartro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

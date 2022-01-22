@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\ref\quartro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\bin\Debug\net5.0\quartro.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\ref\quartro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\quartro\quartro\obj\Debug\net5.0\quartro.genruntimeconfig.cache

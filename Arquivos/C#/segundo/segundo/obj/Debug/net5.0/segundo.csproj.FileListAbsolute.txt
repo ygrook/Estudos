@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\ref\segundo.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\bin\Debug\net5.0\segundo.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\ref\segundo.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\segundo\segundo\obj\Debug\net5.0\segundo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\ref\cinco.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\bin\Debug\net5.0\cinco.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\ref\cinco.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\cinco\cinco\obj\Debug\net5.0\cinco.genruntimeconfig.cache

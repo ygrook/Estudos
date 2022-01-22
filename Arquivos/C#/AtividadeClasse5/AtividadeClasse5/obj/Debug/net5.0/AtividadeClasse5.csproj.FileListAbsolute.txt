@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse5\AtividadeClasse5\obj\Debug\net5.0\AtividadeClasse5.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse5\AtividadeClasse5\obj\Debug\net5.0\AtividadeClasse5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse5\AtividadeClasse5\obj\Debug\net5.0\AtividadeClasse5.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse5\AtividadeClasse5\obj\Debug\net5.0\AtividadeClasse5.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse5\AtividadeClasse5\obj\Debug\net5.0\AtividadeClasse5.csproj.CoreCompileInputs.cache

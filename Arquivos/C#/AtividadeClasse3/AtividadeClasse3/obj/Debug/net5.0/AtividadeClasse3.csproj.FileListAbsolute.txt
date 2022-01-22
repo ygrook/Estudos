@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\ref\AtividadeClasse3.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\bin\Debug\net5.0\AtividadeClasse3.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\ref\AtividadeClasse3.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtividadeClasse3\AtividadeClasse3\obj\Debug\net5.0\AtividadeClasse3.genruntimeconfig.cache

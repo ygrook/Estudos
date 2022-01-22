@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\ref\FOR.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\bin\Debug\net5.0\FOR.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\ref\FOR.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\FOR\FOR\obj\Debug\net5.0\FOR.genruntimeconfig.cache

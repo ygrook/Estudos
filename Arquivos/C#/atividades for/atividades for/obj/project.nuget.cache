@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHiz7Tl/YFbPx36zwJOkXNorrWQ13yiGWnzIHRT83LiZCE3FExk8qoPoDfpl3mLOqiiNgEwiPvi5Ezvs/yo/jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Arquivos\\ws-vs2022\\atividades for\\atividades for\\atividades for.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

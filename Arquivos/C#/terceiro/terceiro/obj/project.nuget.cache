@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r63q9aefZjWhBIjxAXEtgr4AOYR66iKYRfCRbW09CeGRESqJ86qiW9B1Zhsbg/qqo1RKp7NT3oG1Z9kHwZzyFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Arquivos\\ws-vs2022\\terceiro\\terceiro\\terceiro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

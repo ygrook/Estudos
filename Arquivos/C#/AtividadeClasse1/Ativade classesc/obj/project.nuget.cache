@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8qBzPfbkikcNkCTat0CliWKSxQUQffQn2AwEU9D+M8RaDB0FiyR0re2B54yccPelrv/luvOsP5z2Mz+CSTuig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Arquivos\\ws-vs2022\\Ativade classesc\\Ativade classesc\\Ativade classesc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

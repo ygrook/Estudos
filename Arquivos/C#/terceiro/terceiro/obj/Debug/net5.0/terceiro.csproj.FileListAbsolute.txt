@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\ref\terceiro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\bin\Debug\net5.0\terceiro.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\ref\terceiro.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\terceiro\terceiro\obj\Debug\net5.0\terceiro.genruntimeconfig.cache
