@@ -7,15 +7,22 @@ namespace AtividadeClasse3
     {
         static void Main(string[] args)
         {
-            Produto  p = new Produto();
-            
+ 
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        
+
+            Produto p2 = new Produto(nome, preco);
+
+            Produto p3 = new Produto
+            {
+                Nome = "TV",
+                Preco = 900.00,
+                Quantidade = 20
+            };
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto " + p);
@@ -34,6 +41,7 @@ namespace AtividadeClasse3
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+            
         }
     }
 }

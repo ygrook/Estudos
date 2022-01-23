@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "muNEE5QuJO90009DkJ6jpfhWvMZeKfRgFLrB09b3mXZmdrgTEgoxX9OmxZXLqMJLq2fEjgM41qXHbQIMiqMRng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Sistema Banco\\Sistema Banco\\Sistema Banco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
