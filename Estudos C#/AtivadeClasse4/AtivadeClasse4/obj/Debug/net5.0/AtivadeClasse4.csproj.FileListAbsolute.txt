@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.exe
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.deps.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\ref\AtivadeClasse4.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\bin\Debug\net5.0\AtivadeClasse4.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\ref\AtivadeClasse4.dll
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.pdb
+C:\Users\Gabriel\Desktop\Arquivos\ws-vs2022\AtivadeClasse4\AtivadeClasse4\obj\Debug\net5.0\AtivadeClasse4.genruntimeconfig.cache
