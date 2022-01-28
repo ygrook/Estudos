@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhh6KKY0nHlwYJgpwWH32tHcYgeOnCKFYosbR9DDlEHvrLMsyKBdFJkLg7s7zWHl3d2+W8M+vaFJNtZqyl4Seg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Vetores1\\Vetores1\\Vetores1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
