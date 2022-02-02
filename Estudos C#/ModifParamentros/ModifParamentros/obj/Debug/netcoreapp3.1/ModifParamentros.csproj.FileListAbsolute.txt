@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.exe
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.deps.json
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.runtimeconfig.json
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.dll
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\bin\Debug\netcoreapp3.1\ModifParamentros.pdb
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.dll
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.pdb
+C:\Users\Gabriel\source\repos\ModifParamentros\ModifParamentros\obj\Debug\netcoreapp3.1\ModifParamentros.genruntimeconfig.cache

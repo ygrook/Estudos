@@ -1,0 +1,4 @@
+C:\Users\Gabriel\source\repos\ModifParamsRefOut\ModifParamsRefOut\obj\Debug\netcoreapp3.1\ModifParamsRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ModifParamsRefOut\ModifParamsRefOut\obj\Debug\netcoreapp3.1\ModifParamsRefOut.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ModifParamsRefOut\ModifParamsRefOut\obj\Debug\netcoreapp3.1\ModifParamsRefOut.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ModifParamsRefOut\ModifParamsRefOut\obj\Debug\netcoreapp3.1\ModifParamsRefOut.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9nQwL0ML+YjQuZ7Gn5usTlKfIMiN8VH7qLtef7V9pJlUe9nGPodqGfQ7rIjQ5ICtAlITwokpD2Vw0amds4wfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\ModifParamsRefOut\\ModifParamsRefOut\\ModifParamsRefOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
