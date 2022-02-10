@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOvh/1lF2xP3xOI6emkP+RrXeYpbKjQpWjnci8j0zVnyBn4n4P5BU+xgDhl+tHAm8Zmh25BvR1ML02htZe3Dlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Lista2\\Lista2\\Lista2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

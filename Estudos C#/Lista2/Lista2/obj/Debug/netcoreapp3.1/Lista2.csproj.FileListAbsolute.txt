@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.exe
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.deps.json
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.dll
+C:\Users\Gabriel\source\repos\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.pdb
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.dll
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.pdb
+C:\Users\Gabriel\source\repos\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.genruntimeconfig.cache

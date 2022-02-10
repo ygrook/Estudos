@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzGZDlU9AWLS0F7SAEanxH1fQUYVXFkaQh1gWqIrlbfwtr+8wsK19aGdVjL8NPglB0uDm90Evi259OB3zra5bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Boxing\\Boxing\\Boxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

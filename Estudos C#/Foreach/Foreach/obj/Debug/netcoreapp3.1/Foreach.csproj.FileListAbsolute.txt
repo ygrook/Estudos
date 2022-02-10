@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+C:\Users\Gabriel\source\repos\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+C:\Users\Gabriel\source\repos\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache
